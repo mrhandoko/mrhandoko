@@ -20,8 +20,11 @@
 
 <a href="https://github.com/mrhandoko">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=mrhandoko&show_icons=true&line_height=27&count_private=true&include_all_commits=true&theme=algolia" alt="mrhandoko's GitHub stats"/>
+</a>
+<br />
+<a href="https://github.com/mrhandoko">
     <img height="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrhandoko&layout=compact&langs_count=8&theme=algolia" />
-</a>  
+</a>
 
 <!--
 **mrhandoko/mrhandoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
