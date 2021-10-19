@@ -8,14 +8,19 @@
 - 🔭 I’m currently working on **Warung Pintar as Software Engineer**
 - 🌱 I’m currently learning domain-driven design and clear architecture
 
+
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
+
+### ⚙️ &nbsp;GitHub Analytics
+
 <a href="https://github.com/mrhandoko">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=mrhandoko&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="mrhandoko's GitHub stats"/>
+    <img height="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrhandoko&layout=compact&langs_count=8&theme=algolia" />
 </a>  
 
 <!--
