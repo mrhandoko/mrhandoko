@@ -19,7 +19,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/mrhandoko">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=mrhandoko&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="mrhandoko's GitHub stats"/>
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=mrhandoko&show_icons=true&line_height=27&count_private=true&include_all_commits=true&theme=algolia" alt="mrhandoko's GitHub stats"/>
     <img height="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrhandoko&layout=compact&langs_count=8&theme=algolia" />
 </a>  
 
