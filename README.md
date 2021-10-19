@@ -10,12 +10,18 @@
 
 **Languages and Tools:** 
 <p>
-  <a href="https://github.com/mrhandoko">
-    <img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=mrhandoko&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="mrhandoko's GitHub stats"/>
-</a>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 </p>
+
+### 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)&nbsp;
+
+<a href="https://github.com/mrhandoko">
+    <img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=mrhandoko&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="mrhandoko's GitHub stats"/>
+</a>  
 
 <!--
 **mrhandoko/mrhandoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
