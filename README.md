@@ -15,7 +15,7 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 <a href="https://github.com/mrhandoko">
-    <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=mrhandoko&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="mrhandoko's GitHub stats"/>
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=mrhandoko&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="mrhandoko's GitHub stats"/>
 </a>  
 
 <!--
