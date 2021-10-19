@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=mrhandoko&color=blue&style=flat-square&label=Profile+visitors)
 
 - 🔭 I’m currently working on **Warung Pintar as Software Engineer**
-- 🌱 I’m currently learning domain-driven design and clear architecture
+- 🌱 I’m currently learning clear architecture craftsmanship
 
 
 ### 🛠 &nbsp;Tech Stack
