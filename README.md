@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Bizzy Commerce Indonesia as Software Engineer**
 - 🌱 I’m currently learning **Clear Architecture Craftsmanship**
-- :floppy_disk: I’m currently working on **Broker Message using AWS SNS** for order tracking status
+- :floppy_disk: I’m currently working on **Broker Message using AWS SNS** for Order Status Tracking feature
 
 
 ### 🛠 &nbsp;Tech Stack
