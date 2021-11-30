@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bambang.handoko12@gmail.com)
 ![](https://komarev.com/ghpvc/?username=mrhandoko&color=blue&style=flat-square&label=Profile+visitors)
 
-- 🔭 I’m currently working on **Bizzy Commerce Indonesia as Software Engineer**
+- 🔭 I’m currently working on **Warung Pintar as Software Engineer**
 - 🌱 I’m currently learning **Clear Architecture Craftsmanship**
 - :floppy_disk: I’m currently working on **Broker Message using AWS SNS** for Order Status Tracking feature
 
