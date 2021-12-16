@@ -7,7 +7,8 @@
 
 - 🔭 I’m currently working on **Warung Pintar as Software Engineer**
 - 🌱 I’m currently learning **Clear Architecture Craftsmanship**
-- :floppy_disk: I’m currently working on **Broker Message using AWS SNS** for Order Status Tracking feature
+- :floppy_disk: I have contributed **Broker Message using AWS SNS & Golang** for Order Status Tracking feature on Prod
+- :floppy_disk: I’m currently working on **Kurir App - Order will be sent to customer by assigned courier**
 
 
 ### 🛠 &nbsp;Tech Stack
