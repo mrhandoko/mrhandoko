@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bambang.handoko12@gmail.com)
 ![](https://komarev.com/ghpvc/?username=mrhandoko&color=blue&style=flat-square&label=Profile+visitors)
 
-- 🔭 I’m currently working on **Warung Pintar as Technical Lead & Software Engineer**
+- 🔭 I’m currently working on **Warung Pintar as Technical Lead**
 - 🌱 I’m currently learning **Clean Architecture Craftsmanship**
 - :floppy_disk: I have contributed **Broker Message using AWS SNS & Golang** for Order Status Tracking feature on Prod
 - 😎 I’m currently working on **Kurir App - Orders will be sent to customer by assigned courier**
