@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Warung Pintar as Technical Lead**
 - 🌱 I’m currently learning **Clean Architecture Craftsmanship**
 - :floppy_disk: I have contributed **Broker Message using AWS SNS & Golang** for Order Status Tracking feature on Prod
-- 😎 I’m currently working on **Kurir App - Orders will be sent to customer by assigned courier**, **Brand Engagement Features
+- 😎 I’m currently working on **Kurir App - Orders will be sent to customer by assigned courier**, **Brand Engagement Features**
 - 👍🏼 I'm proud having a great team working together develop **Grosir Pintar** and tackling incoming challenges
 
 
